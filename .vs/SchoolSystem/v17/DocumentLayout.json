@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\School System\\SchoolSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|e:\\projects\\school system\\schoolsystem\\schoolsystem\\admin\\adminhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\admin\\adminhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|e:\\projects\\school system\\schoolsystem\\schoolsystem\\admin\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\admin\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|e:\\projects\\school system\\schoolsystem\\schoolsystem\\teacher\\teacherhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\teacher\\teacherhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|e:\\projects\\school system\\schoolsystem\\schoolsystem\\teacher\\teacherhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\teacher\\teacherhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|e:\\projects\\school system\\schoolsystem\\schoolsystem\\teacher\\studentattendance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\teacher\\studentattendance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|e:\\projects\\school system\\schoolsystem\\schoolsystem\\teacher\\studentattendance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\teacher\\studentattendance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|e:\\projects\\school system\\schoolsystem\\schoolsystem\\admin\\employeeattendance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\admin\\employeeattendance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|e:\\projects\\school system\\schoolsystem\\schoolsystem\\admin\\employeeattendance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\admin\\employeeattendance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|e:\\projects\\school system\\schoolsystem\\schoolsystem\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|e:\\projects\\school system\\schoolsystem\\schoolsystem\\teacher\\teachermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{481CEA93-A040-4E5F-ADE3-E134D4B628F9}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\teacher\\teachermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminHome.aspx.cs",
+              "DocumentMoniker": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Admin\\AdminHome.aspx.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Admin\\AdminHome.aspx.cs",
+              "ToolTip": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Admin\\AdminHome.aspx.cs*",
+              "RelativeToolTip": "SchoolSystem\\Admin\\AdminHome.aspx.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwDgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:44:23.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeAttendance.aspx.cs",
+              "DocumentMoniker": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Admin\\EmployeeAttendance.aspx.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Admin\\EmployeeAttendance.aspx.cs",
+              "ToolTip": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Admin\\EmployeeAttendance.aspx.cs",
+              "RelativeToolTip": "SchoolSystem\\Admin\\EmployeeAttendance.aspx.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:40:04.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeAttendance.aspx",
+              "DocumentMoniker": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Admin\\EmployeeAttendance.aspx",
+              "RelativeDocumentMoniker": "SchoolSystem\\Admin\\EmployeeAttendance.aspx",
+              "ToolTip": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Admin\\EmployeeAttendance.aspx",
+              "RelativeToolTip": "SchoolSystem\\Admin\\EmployeeAttendance.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T13:39:14.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherHome.aspx",
+              "DocumentMoniker": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Teacher\\TeacherHome.aspx",
+              "RelativeDocumentMoniker": "SchoolSystem\\Teacher\\TeacherHome.aspx",
+              "ToolTip": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Teacher\\TeacherHome.aspx",
+              "RelativeToolTip": "SchoolSystem\\Teacher\\TeacherHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T13:36:09.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminHome.aspx",
+              "DocumentMoniker": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Admin\\AdminHome.aspx",
+              "RelativeDocumentMoniker": "SchoolSystem\\Admin\\AdminHome.aspx",
+              "ToolTip": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Admin\\AdminHome.aspx*",
+              "RelativeToolTip": "SchoolSystem\\Admin\\AdminHome.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T13:30:14.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentAttendance.aspx",
+              "DocumentMoniker": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Teacher\\StudentAttendance.aspx",
+              "RelativeDocumentMoniker": "SchoolSystem\\Teacher\\StudentAttendance.aspx",
+              "ToolTip": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Teacher\\StudentAttendance.aspx",
+              "RelativeToolTip": "SchoolSystem\\Teacher\\StudentAttendance.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T13:40:29.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherHome.aspx.cs",
+              "DocumentMoniker": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Teacher\\TeacherHome.aspx.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Teacher\\TeacherHome.aspx.cs",
+              "ToolTip": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Teacher\\TeacherHome.aspx.cs",
+              "RelativeToolTip": "SchoolSystem\\Teacher\\TeacherHome.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:41:36.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentAttendance.aspx.cs",
+              "DocumentMoniker": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Teacher\\StudentAttendance.aspx.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Teacher\\StudentAttendance.aspx.cs",
+              "ToolTip": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Teacher\\StudentAttendance.aspx.cs",
+              "RelativeToolTip": "SchoolSystem\\Teacher\\StudentAttendance.aspx.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:40:47.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeacherMaster.Master",
+              "DocumentMoniker": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Teacher\\TeacherMaster.Master",
+              "RelativeDocumentMoniker": "SchoolSystem\\Teacher\\TeacherMaster.Master",
+              "ToolTip": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Teacher\\TeacherMaster.Master",
+              "RelativeToolTip": "SchoolSystem\\Teacher\\TeacherMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T13:36:15.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminMaster.Master",
+              "DocumentMoniker": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Admin\\AdminMaster.Master",
+              "RelativeDocumentMoniker": "SchoolSystem\\Admin\\AdminMaster.Master",
+              "ToolTip": "E:\\projects\\School System\\SchoolSystem\\SchoolSystem\\Admin\\AdminMaster.Master",
+              "RelativeToolTip": "SchoolSystem\\Admin\\AdminMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T13:30:13.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
